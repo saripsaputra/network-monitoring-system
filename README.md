@@ -1,5 +1,9 @@
 # Network Monitoring System
 
+## Preview
+
+![Network Monitoring System Dashboard](NetworkMonitoringSistem.png.jpeg)
+
 Network Monitoring System adalah aplikasi dashboard berbasis web untuk membantu monitoring dan pengelolaan perangkat jaringan melalui tampilan yang sederhana dan mudah digunakan.
 
 ## Features
